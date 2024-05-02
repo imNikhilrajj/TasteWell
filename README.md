@@ -15,20 +15,20 @@ A React-based food ordering app with real-time restaurant data from Swiggy's API
 
 - Robust Error Management and Network Resilience: Efficiently navigate users through potential errors with a dedicated error page for incorrect paths, ensuring a seamless and guided experience. In the face of challenging network conditions, our application seamlessly transitions to an offline page, guaranteeing uninterrupted user engagement even in less-than-ideal connectivity scenarios.
 # Tech Stack
-> React: Powering our dynamic user interfaces with its efficient JavaScript library.
+- React: Powering our dynamic user interfaces with its efficient JavaScript library.
 
-> Redux Toolkit: Streamlining state management with an official, all-in-one toolkit for Redux development.
+- Redux Toolkit: Streamlining state management with an official, all-in-one toolkit for Redux development.
 
-> Firebase: Leveraging backend-as-a-service capabilities for seamless authentication and database management.
+- Firebase: Leveraging backend-as-a-service capabilities for seamless authentication and database management.
 
-> Tailwind CSS: Accelerating UI development with a utility-first CSS framework, ensuring rapid and responsive design implementation.
+- Tailwind CSS: Accelerating UI development with a utility-first CSS framework, ensuring rapid and responsive design implementation.
 
-> Parcel: Our bundler of choice, optimizing the packaging of our project for efficient deployment.
+- Parcel: Our bundler of choice, optimizing the packaging of our project for efficient deployment.
 
-> Swiggy API: Enabling real-time access to comprehensive restaurant data and information.
+- Swiggy API: Enabling real-time access to comprehensive restaurant data and information.
 
-> React Hook Form: Streamlining form management, providing a seamless and user-friendly experience with efficient state handling and user-friendly experience.
+- React Hook Form: Streamlining form management, providing a seamless and user-friendly experience with efficient state handling and user-friendly experience.
 
-> Yup: Utilizing Yup for form validation, ensuring data integrity and user input validation.
+- Yup: Utilizing Yup for form validation, ensuring data integrity and user input validation.
 
-> React Router: Facilitating seamless navigation with declarative routing for React applications.
+- React Router: Facilitating seamless navigation with declarative routing for React applications.
